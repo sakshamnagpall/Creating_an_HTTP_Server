@@ -17,7 +17,7 @@ This is a basic HTTP server implemented in C++ that serves static HTML content. 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/cpp-html-server.git
+    git clone https://github.com/sakshamnagpall/Simple_HTTP_Server.git
     ```
 
 2. Navigate to the project directory:
